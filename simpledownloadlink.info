@@ -1,0 +1,4 @@
+name = Simple download link
+description = Show download icon and link without file name.
+package = Fields
+core = 7.x
